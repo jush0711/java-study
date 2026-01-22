@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee014a5-52c6-499f-a7e7-98e3eba47aeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_Basic/HelloJava/src/chap_07/_07_This.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Basic/HelloJava/src/chap_07/BlackBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Basic/HelloJava/src/chap_07/BlackBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Basic/REAEME.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Basic/out/production/IdeaProjects/chap_07/BlackBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Basic/out/production/IdeaProjects/chap_07/BlackBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="6ee014a5-52c6-499f-a7e7-98e3eba47aeb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -30,7 +23,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ttona/Desktop/2026JAVAstudy/2026 노트북/java나도코딩 후반부",
     "project.structure.last.edited": "Modules",
