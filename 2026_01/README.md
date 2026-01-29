@@ -28,3 +28,17 @@ This
 고로 this는 사용할 수 없다.  
 // 변수는 값은 담는 상자라 생각, 그래서 b1.modelName 에 괄호가 필요없다.  
 메소드는 입이 있다, 그래서 b1.appendModelName() 에 괄호가 들어간다
+
+2026/01/30  
+constructor , GetterSetter  
+1. constructor 생성자는 객체의 초기 상태를 강제하기 위해 사용
+2. GetterSetter는 데이터 가공과 보호를 위해 사용됨
+  
+생성자는
+1. 클래스명과 동일한 이름으로 설정해야함
+2. 생성자 오버로딩 가능함
+3. this로 생성자에서 생성자를 실행할 수 있음 (생성자간 호출 가능)
+  
+Getter & Setter
+1. getter는 데이터를 추출하는 입구, return을 꼭 사용해야함
+2. setter은 데이터를 주입하는 입구, 반환타입은 void, this를 주로 사용함
