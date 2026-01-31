@@ -9,6 +9,10 @@ public class _09_GetterSetter {
         b1.price = 200000;
         b1.color = "화이트";
 
+        b1.price = -5000;
+        System.out.println("가격 : " + b1.price + "원");
+
+        System.out.println("------------------------");
 
         BlackBox b2 = new BlackBox();
         b2.setModelName("깜장이");
@@ -20,6 +24,7 @@ public class _09_GetterSetter {
 
         System.out.println("가격 : " + b2.getPrice() + "원");
         System.out.println("해상도 : " + b2.getResolution());
+
 
 
 
