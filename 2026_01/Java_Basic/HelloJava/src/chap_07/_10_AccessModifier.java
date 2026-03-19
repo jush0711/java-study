@@ -2,6 +2,10 @@ package chap_07;
 
 public class _10_AccessModifier {
     public static void main(String[] args) {
+
+
+    //      캡슐화 : 같은 내용끼리 묶는것
+    //      정보은닉 : 접근제어자를 사용해서 정보를 은닉함
 //        접근제어자
 //        private 해당 클래스 내에서 접근
 //        public 모든 클래스
